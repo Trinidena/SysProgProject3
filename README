@@ -11,7 +11,7 @@ This project demonstrates a simple client-server architecture for transferring d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/client-server-data-transfer.git
+   git clone https://github.com/Trinidena/SysProgProject3.git
 
    Change into the project directory:
 
@@ -25,7 +25,7 @@ bash
 
 cargo build
 
-Run the client:
+Run the client and server:
 
 bash
 
