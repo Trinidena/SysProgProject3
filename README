@@ -1,0 +1,34 @@
+# Client-Server Data Transfer
+
+This project demonstrates a simple client-server architecture for transferring data over a network. The client sends a branch code and a sales report file to the server, which decodes and saves the data.
+
+## Prerequisites
+
+- [Rust](https://www.rust-lang.org/)
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/client-server-data-transfer.git
+
+   Change into the project directory:
+
+bash
+
+cd SysProgProject3
+
+Build the projects:
+
+bash
+
+cargo build
+
+Run the client:
+
+bash
+
+cargo run server_program
+
+cargo run client_program

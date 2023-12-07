@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"rust-analyzer.linkedProjects": [
+			"C:\\Users\\csuser\\SysProgProject3\\client_program\\Cargo.toml",
+			"C:\\Users\\csuser\\SysProgProject3\\server_program\\Cargo.toml"
+		],
+		"rust-analyzer.hover.actions.references.enable": true
+	}
+}
